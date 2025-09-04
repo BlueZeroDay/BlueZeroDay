@@ -39,13 +39,13 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadhasanmehrabi&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&border_color=00FF00)
 
 <!-- Top Languages Matrix Style -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&border_color=00FF00)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadhasanmehrabi&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&border_color=00FF00)
 
 <!-- GitHub Streak Matrix -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=000000&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&currStreakLabel=00FF00&sideNums=00FF00&sideLabels=00FF00&dates=00FF00)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohammadhasanmehrabi&theme=dark&hide_border=true&background=000000&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&currStreakLabel=00FF00&sideNums=00FF00&sideLabels=00FF00&dates=00FF00)
 
 <!-- Contribution Graph Matrix -->
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=matrix&hide_border=true&area=true&area_color=00FF00&color=00FF00&line=00FF00&point=00FF00&bg_color=000000)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohammadhasanmehrabi&theme=matrix&hide_border=true&area=true&area_color=00FF00&color=00FF00&line=00FF00&point=00FF00&bg_color=000000)
 
 ---
 
