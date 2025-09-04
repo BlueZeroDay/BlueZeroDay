@@ -48,16 +48,17 @@
 </p>
 ---
 
-## 🎯 TARGET PROJECTS
-
-### 🚀 Pinned Repositories
+### 🚀 Featured Repositories
 <!-- Repo Cards Matrix Style -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=100&lines=My+work" alt="Typing SVG" />
+</div>
 <a href="https://github.com/BlueZeroDay/software-engineering">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadhasanmehrabi&repo=software-engineering&theme=dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&border_color=00FF00" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BlueZeroDay&repo=software-engineering&theme=dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&border_color=00FF00" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/BlueZeroDay/tnavista">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadhasanmehrabi&repo=tnavista&theme=dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&border_color=00FF00" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BlueZeroDay&repo=tnavista&theme=dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&border_color=00FF00" />
 </a>
 
 ---
@@ -81,38 +82,11 @@
 - **Web Technologies**: Advanced Web Security Testing & Backend
 ---
 
-## 📈 LIVE STATISTICS
-
-<!-- Profile Views Matrix -->
-![Profile Views](https://komarev.com/ghpvc/?username=BlueZeroDay&color=00FF00&style=for-the-badge)
-
-<!-- WakaTime Stats Matrix -->
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=BlueZeroDay&theme=dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&border_color=00FF00)
-
-<!-- Matrix Rain Effect -->
-<div align="center">
-  <img src="https://github.com/mohammadhasanmehrabi/BlueZeroDay/blob/output/github-contribution-grid-snake-dark.svg" alt="Matrix Rain" />
-</div>
-
----
-
-## 📚 RESEARCH & PUBLICATIONS
-
-### 📖 Security Research Papers
-
-### 🎥 Security Training & Workshops
-
-### 🔬 Bug Bounty Reports
-
-
----
-
 ## 🤝 COLLABORATION & CONTACT
 
 ### 📫 Communication Channels
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00)](https://linkedin.com/in/YOUR_USERNAME)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF00)](mailto:mhm.l.m.134713811355@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00FF00)](https://t.me/Mohammed1381mehrabi)
+[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00FF00)](https://t.me/BlueZeroDay)
 ### 💼 Security Services Offered
 - 🔧 **Penetration Testing** & Vulnerability Assessment
 - 🚀 **Security Architecture** Design & Implementation
@@ -124,54 +98,22 @@
 
 ## 🎮 CURRENT STATUS
 
-- 🎵 **Currently Listening**: [Hacker Anthems / Cyberpunk Music]
-- 📚 **Currently Reading**: [Advanced Exploitation Techniques]
-- 🎯 **Learning**: [Advanced Reverse Engineering]
-- 🏃‍♂️ **Hobbies**: [Lock Picking, CTF Challenges, Hardware Hacking]
-- 🔥 **Current Target**: [Enterprise Security Assessment]
-- ⚡ **Next Goal**: [Zero-Day Discovery]
+- 🎵 **Currently Listening**: Hacker Anthems / Cyberpunk Music
+- 📚 **Currently Reading**: Advanced Exploitation Techniques
+- 🎯 **Learning**: Advanced Reverse Engineering
+- 🏃‍♂️ **Hobbies**: Lock Picking, CTF Challenges, Hardware Hacking
+- 🔥 **Current Target**: Enterprise Security Assessment
+- ⚡ **Next Goal**: Zero-Day Discovery
 
----
-
-## 📊 WEEKLY ACTIVITY
-
-<!-- Weekly Stats Matrix -->
-![Weekly Stats](https://github-readme-stats.vercel.app/api?username=BlueZeroDay&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&include_all_commits=true&count_private=true&border_color=00FF00)
 
 ---
 
 ## 🎯 FUTURE MISSIONS
 
-- [ ] **Black Hat Python
-- [ ] **React
-- [ ] **CEH
-- [ ] **PWK
-- [ ] **SANS
----
+- [ ] **Black Hat Python**
+- [ ] **React**
+- [ ] **CEH**
+- [ ] **PWK**
+- [ ] **SANS**
 
-### 🎯 For Matrix Rain Effect:
-Create a repository named `YOUR_USERNAME/YOUR_USERNAME` and add this workflow:
 
-```yaml
-name: Generate Matrix Rain
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          COMMIT_MSG: 'Update Matrix Rain'
-          MAX_LINES: 1000
-```
-
----
-
-**⭐ If you like this Matrix-style profile, give it a star! 🖤**
