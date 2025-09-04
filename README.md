@@ -53,12 +53,12 @@
 
 ### 🚀 Pinned Repositories
 <!-- Repo Cards Matrix Style -->
-<a href="https://github.com/YOUR_USERNAME/awesome-project-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=awesome-project-1&theme=dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&border_color=00FF00" />
+<a href="https://github.com/mohammadhasanmehrabi/software-engineering">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadhasanmehrabi&repo=awesome-project-1&theme=dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&border_color=00FF00" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME/awesome-project-2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=awesome-project-2&theme=dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&border_color=00FF00" />
+<a href="https://github.com/mohammadhasanmehrabi/software-engineering">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadhasanmehrabi&repo=awesome-project-2&theme=dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&border_color=00FF00" />
 </a>
 
 ---
