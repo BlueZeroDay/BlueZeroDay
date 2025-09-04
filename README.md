@@ -22,10 +22,14 @@
 
 ### 💻 Programming & Scripting
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF00)
-![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=00FF00)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF00)
+![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=00FF00)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=00FF00)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF00)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF00)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF00)
 ![PowerShell](https://img.shields.io/badge/PowerShell-000000?style=for-the-badge&logo=powershell&logoColor=00FF00)
 ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00FF00)
-![Assembly](https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=assembly&logoColor=00FF00)
 
 ### 🛡️ Defensive Security
 ![Snort](https://img.shields.io/badge/Snort-000000?style=for-the-badge&logo=snort&logoColor=00FF00)
@@ -53,13 +57,65 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=100&lines=My+work" alt="Typing SVG" />
 </div>
-<a href="https://github.com/BlueZeroDay/software-engineering">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BlueZeroDay&repo=software-engineering&theme=dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&border_color=00FF00" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/BlueZeroDay/tnavista">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=BlueZeroDay&repo=tnavista&theme=dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&border_color=00FF00" />
-</a>
+
+<!-- Row 1: Software Engineering & TNavista -->
+<div align="center">
+  <table>
+    <tr>
+      <!-- Text Row -->
+      <td align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00FF00&center=true&vCenter=true&width=300&height=45&lines=Software+Engineering+Repository" alt="Typing SVG" />
+      </td>
+      <td align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00FF00&center=true&vCenter=true&width=300&height=45&lines=TNavista+Repository" alt="Typing SVG" />
+      </td>
+    </tr>
+    <tr>
+      <!-- Cards Row -->
+      <td align="center" style="padding: 10px;">
+        <a href="https://github.com/BlueZeroDay/software-engineering">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=BlueZeroDay&repo=software-engineering&theme=dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&border_color=00FF00" />
+        </a>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <a href="https://github.com/BlueZeroDay/tnavista">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=BlueZeroDay&repo=tnavista&theme=dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&border_color=00FF00" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- Row 2: Especial Topic & Personal Project -->
+<div align="center">
+  <table>
+    <tr>
+      <!-- Text Row -->
+      <td align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00FF00&center=true&vCenter=true&width=300&height=45&lines=Especial+Topic+Repository" alt="Typing SVG" />
+      </td>
+      <td align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00FF00&center=true&vCenter=true&width=300&height=45&lines=My+Personal+Project" alt="Typing SVG" />
+      </td>
+    </tr>
+    <tr>
+      <!-- Cards Row -->
+      <td align="center" style="padding: 10px;">
+        <a href="https://github.com/BlueZeroDay/espesial-topic">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=BlueZeroDay&repo=espesial-topic&theme=dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&border_color=00FF00" />
+        </a>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <a href="https://github.com/BlueZeroDay/my-personal-project">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=BlueZeroDay&repo=my-personal-project&theme=dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&border_color=00FF00" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
 
 ---
 
