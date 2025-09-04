@@ -6,7 +6,9 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+My+Profile;%3E+Access+Granted;%3E+System+Online;%3E+Ready+to+Hack" alt="Typing SVG" />
 </div>
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=23&pause=1200&color=00FF00&center=true&vCenter=true&width=700&height=120&lines=Hi+%F0%9F%91%8B+My+Name+is+Blue;I+%E2%9D%A4%EF%B8%8F+Programming+%26+Cyber+Security;Currently+Researching+%F0%9F%94%8D+%26+Building+My+Website;Glad+You're+Here+%F0%9F%98%8A;This+Profile+Gets+Updated+Daily+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 ---
 
 ## ⚡ HACKING TOOLS & TECHNOLOGIES
@@ -108,7 +110,7 @@
 ## 🤝 COLLABORATION & CONTACT
 
 ### 📫 Communication Channels
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00)](https://linkedin.com/in/YOUR_USERNAME)@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00)](https://linkedin.com/in/YOUR_USERNAME)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF00)](mailto:mhm.l.m.134713811355@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00FF00)](https://t.me/Mohammed1381mehrabi)
 ### 💼 Security Services Offered
