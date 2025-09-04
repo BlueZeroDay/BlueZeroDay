@@ -35,18 +35,15 @@
 
 ## 📊 SYSTEM STATISTICS
 
-<!-- GitHub Stats with Matrix Theme -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadhasanmehrabi&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&border_color=00FF00)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammadhasanmehrabi&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&border_color=00FF00" alt="GitHub Stats" width="48%" height="200px"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadhasanmehrabi&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&border_color=00FF00" alt="Top Languages" width="48%" height="200px"/>
+</p>
 
-<!-- Top Languages Matrix Style -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadhasanmehrabi&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&border_color=00FF00)
-
-<!-- GitHub Streak Matrix -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohammadhasanmehrabi&theme=dark&hide_border=true&background=000000&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&currStreakLabel=00FF00&sideNums=00FF00&sideLabels=00FF00&dates=00FF00)
-
-<!-- Contribution Graph Matrix -->
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohammadhasanmehrabi&theme=matrix&hide_border=true&area=true&area_color=00FF00&color=00FF00&line=00FF00&point=00FF00&bg_color=000000)
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadhasanmehrabi&theme=dark&hide_border=true&background=000000&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&currStreakLabel=00FF00&sideNums=00FF00&sideLabels=00FF00&dates=00FF00" alt="GitHub Streak" width="600"/>
+</p>
 ---
 
 ## 🎯 TARGET PROJECTS
@@ -54,11 +51,11 @@
 ### 🚀 Pinned Repositories
 <!-- Repo Cards Matrix Style -->
 <a href="https://github.com/mohammadhasanmehrabi/software-engineering">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadhasanmehrabi&repo=awesome-project-1&theme=dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&border_color=00FF00" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadhasanmehrabi&repo=software-engineering&theme=dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&border_color=00FF00" />
 </a>
-
-<a href="https://github.com/mohammadhasanmehrabi/software-engineering">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadhasanmehrabi&repo=awesome-project-2&theme=dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&border_color=00FF00" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/mohammadhasanmehrabi/tnavista">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadhasanmehrabi&repo=tnavista&theme=dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&border_color=00FF00" />
 </a>
 
 ---
@@ -88,14 +85,14 @@
 ## 📈 LIVE STATISTICS
 
 <!-- Profile Views Matrix -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00FF00&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=mohammadhasanmehrabi&color=00FF00&style=for-the-badge)
 
 <!-- WakaTime Stats Matrix -->
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_USERNAME&theme=dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&border_color=00FF00)
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=mohammadhasanmehrabi&theme=dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&border_color=00FF00)
 
 <!-- Matrix Rain Effect -->
 <div align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg" alt="Matrix Rain" />
+  <img src="https://github.com/mohammadhasanmehrabi/mohammadhasanmehrabi/blob/output/github-contribution-grid-snake-dark.svg" alt="Matrix Rain" />
 </div>
 
 ---
