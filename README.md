@@ -36,13 +36,13 @@
 ## 📊 SYSTEM STATISTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadhasanmehrabi&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&border_color=00FF00" alt="GitHub Stats" width="48%" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BlueZeroDay&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&border_color=00FF00" alt="GitHub Stats" width="48%" height="200px"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadhasanmehrabi&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&border_color=00FF00" alt="Top Languages" width="48%" height="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueZeroDay&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&border_color=00FF00" alt="Top Languages" width="48%" height="200px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadhasanmehrabi&theme=dark&hide_border=true&background=000000&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&currStreakLabel=00FF00&sideNums=00FF00&sideLabels=00FF00&dates=00FF00" alt="GitHub Streak" width="600"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BlueZeroDay&theme=dark&hide_border=true&background=000000&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakNum=00FF00&currStreakLabel=00FF00&sideNums=00FF00&sideLabels=00FF00&dates=00FF00" alt="GitHub Streak" width="600"/>
 </p>
 ---
 
@@ -50,11 +50,11 @@
 
 ### 🚀 Pinned Repositories
 <!-- Repo Cards Matrix Style -->
-<a href="https://github.com/mohammadhasanmehrabi/software-engineering">
+<a href="https://github.com/BlueZeroDay/software-engineering">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadhasanmehrabi&repo=software-engineering&theme=dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&border_color=00FF00" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/mohammadhasanmehrabi/tnavista">
+<a href="https://github.com/BlueZeroDay/tnavista">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadhasanmehrabi&repo=tnavista&theme=dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&border_color=00FF00" />
 </a>
 
@@ -66,7 +66,6 @@
 - **Penetration Testing**: Web, Mobile, Network, Social Engineering
 - **Vulnerability Assessment**: Automated & Manual Testing
 - **Exploit Development**: Custom Exploits & Payloads
-- **Reverse Engineering**: Malware Analysis & Binary Exploitation
 
 ### 🛡️ Defensive Security  
 - **Incident Response**: Threat Detection & Response
@@ -75,68 +74,43 @@
 - **Threat Intelligence**: Threat Hunting & Analysis
 
 ### 💻 Advanced Programming
-- **Assembly & C/C++**: Low-level Programming & Exploitation
+- **Assembly & C/C#**: Low-level Programming & Exploitation
 - **Python Scripting**: Security Tools & Automation
-- **Web Technologies**: Advanced Web Security Testing
-- **Mobile Security**: iOS & Android Security Assessment
-
+- **Web Technologies**: Advanced Web Security Testing & Backend
 ---
 
 ## 📈 LIVE STATISTICS
 
 <!-- Profile Views Matrix -->
-![Profile Views](https://komarev.com/ghpvc/?username=mohammadhasanmehrabi&color=00FF00&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=BlueZeroDay&color=00FF00&style=for-the-badge)
 
 <!-- WakaTime Stats Matrix -->
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=mohammadhasanmehrabi&theme=dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&border_color=00FF00)
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=BlueZeroDay&theme=dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&border_color=00FF00)
 
 <!-- Matrix Rain Effect -->
 <div align="center">
-  <img src="https://github.com/mohammadhasanmehrabi/mohammadhasanmehrabi/blob/output/github-contribution-grid-snake-dark.svg" alt="Matrix Rain" />
+  <img src="https://github.com/mohammadhasanmehrabi/BlueZeroDay/blob/output/github-contribution-grid-snake-dark.svg" alt="Matrix Rain" />
 </div>
-
----
-
-## 🏆 ACHIEVEMENTS & CERTIFICATIONS
-
-- 🥇 **OSCP (Offensive Security Certified Professional)**
-- 🏅 **CEH (Certified Ethical Hacker)**
-- 📚 **CISSP (Certified Information Systems Security Professional)**
-- 🎓 **Bug Bounty Hunter** - $50K+ in Rewards
-- 🔥 **Top 1% Security Researcher** on HackerOne
-- ⚡ **100+ CVEs** Discovered & Reported
-- 🛡️ **Security Mentor** for 50+ Aspiring Hackers
 
 ---
 
 ## 📚 RESEARCH & PUBLICATIONS
 
 ### 📖 Security Research Papers
-- [Advanced Web Application Firewall Bypass Techniques](link)
-- [Zero-Day Exploitation in Modern Operating Systems](link)
-- [Machine Learning in Threat Detection & Response](link)
 
 ### 🎥 Security Training & Workshops
-- [Advanced Penetration Testing Course](link)
-- [Reverse Engineering Malware Workshop](link)
-- [Social Engineering Masterclass](link)
 
 ### 🔬 Bug Bounty Reports
-- [Critical RCE in Enterprise Application](link)
-- [SQL Injection Chain in Banking System](link)
-- [Privilege Escalation in Cloud Infrastructure](link)
+
 
 ---
 
 ## 🤝 COLLABORATION & CONTACT
 
 ### 📫 Communication Channels
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00)](https://linkedin.com/in/YOUR_USERNAME)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=00FF00)](https://twitter.com/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF00)](mailto:your.email@example.com)
-[![HackerOne](https://img.shields.io/badge/HackerOne-000000?style=for-the-badge&logo=hackerone&logoColor=00FF00)](https://hackerone.com/YOUR_USERNAME)
-[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-000000?style=for-the-badge&logo=bugcrowd&logoColor=00FF00)](https://bugcrowd.com/YOUR_USERNAME)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00)](https://linkedin.com/in/YOUR_USERNAME)@gmail.com
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF00)](mailto:mhm.l.m.134713811355@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00FF00)](https://t.me/Mohammed1381mehrabi)
 ### 💼 Security Services Offered
 - 🔧 **Penetration Testing** & Vulnerability Assessment
 - 🚀 **Security Architecture** Design & Implementation
@@ -160,53 +134,18 @@
 ## 📊 WEEKLY ACTIVITY
 
 <!-- Weekly Stats Matrix -->
-![Weekly Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&include_all_commits=true&count_private=true&border_color=00FF00)
+![Weekly Stats](https://github-readme-stats.vercel.app/api?username=BlueZeroDay&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&include_all_commits=true&count_private=true&border_color=00FF00)
 
 ---
 
 ## 🎯 FUTURE MISSIONS
 
-- [ ] **Zero-Day Discovery** - Find Critical Vulnerabilities
-- [ ] **Security Tool Development** - Create Advanced Hacking Tools
-- [ ] **Security Conference Speaker** - Present at Black Hat/DEF CON
-- [ ] **Security Book Author** - Write Advanced Exploitation Guide
-- [ ] **CTF Champion** - Win Major Capture The Flag Competitions
-- [ ] **Bug Bounty Millionaire** - Earn $1M+ in Bug Bounties
-- [ ] **Security Research Lab** - Establish Advanced Security Lab
-
+- [ ] **Black Hat Python
+- [ ] **React
+- [ ] **CEH
+- [ ] **PWK
+- [ ] **SANS
 ---
-
-## 💡 CUSTOMIZATION GUIDE
-
-### 🔧 Essential Changes:
-1. **YOUR_USERNAME**: Replace with your actual GitHub username
-2. **Personal Info**: Update name, title, and descriptions
-3. **Projects**: Pin your actual security/hacking projects
-4. **Social Links**: Add your real social media profiles
-5. **Skills**: List your actual security skills and certifications
-
-### 🎨 Matrix Theme Features:
-- **Color Scheme**: Black background (#000000) with green text (#00FF00)
-- **Matrix Rain Effect**: Animated contribution graph
-- **Typing Animation**: Welcome message with Matrix-style text
-- **Dark Theme**: All badges and stats in dark matrix style
-
-### 📈 Advanced Enhancements:
-- **GitHub Actions**: Set up automated stats updates
-- **Security Projects**: Showcase your hacking tools and exploits
-- **Bug Bounty Profile**: Link to your HackerOne/Bugcrowd profiles
-- **CTF Achievements**: Display your competition wins
-- **Security Certifications**: Show your professional credentials
-
----
-
-## 🚀 SETUP INSTRUCTIONS
-
-1. Copy this content to your main GitHub repository's `README.md` file
-2. Replace all `YOUR_USERNAME` instances with your actual GitHub username
-3. Update personal information and project details
-4. Add your real social media and security platform links
-5. Customize content according to your actual skills and achievements
 
 ### 🎯 For Matrix Rain Effect:
 Create a repository named `YOUR_USERNAME/YOUR_USERNAME` and add this workflow:
