@@ -1,10 +1,10 @@
-# 🖤 HACKER PROFILE | DARK MATRIX EDITION
+# 🖤 Developer
 
-## 👨‍💻 [نام شما] | CYBER SECURITY EXPERT
-### 🎯 Ethical Hacker | Penetration Tester | Security Researcher | Bug Hunter
+## 👨‍💻 Blue | SIMPEL CYBER SECURITY AND PROGRAMMER 
+### 🎯 Ethical Hacker | Penetration Tester | Security Researcher | Web
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+the+Matrix;%3E+Access+Granted;%3E+System+Online;%3E+Ready+to+Hack" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+My+Profile;%3E+Access+Granted;%3E+System+Online;%3E+Ready+to+Hack" alt="Typing SVG" />
 </div>
 
 ---
@@ -36,7 +36,7 @@
 ## 📊 SYSTEM STATISTICS
 
 <!-- GitHub Stats with Matrix Theme -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&border_color=00FF00)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadhasanmehrabi&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&icon_color=00FF00&border_color=00FF00)
 
 <!-- Top Languages Matrix Style -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00&border_color=00FF00)
